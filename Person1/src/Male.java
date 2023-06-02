@@ -1,4 +1,5 @@
 public class Male extends Person {
+   public void dance(){}
     @Override
         public void walk() {
             super.walk();

@@ -1,4 +1,4 @@
-public class Person {
+abstract public class Person {
 
         int age;
         float weight;
@@ -8,7 +8,7 @@ public class Person {
 
             return weight / (height * weight);
         }
-
+    abstract void dance();
         public void walk(){
             System.out.println("Person is walking");
         }
