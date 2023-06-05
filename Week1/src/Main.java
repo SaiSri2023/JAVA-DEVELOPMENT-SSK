@@ -36,7 +36,7 @@ public class Main {
 
         //department
         PoliceDepartment pdept=new PoliceDepartment();
-        System.out.println("Size:" +pdept.getDepartmentSize());
+        System.out.println("Size of department:" +pdept.getDepartmentSize());
 
         //vehicle (interface)
         Vehicle v=new Vehicle();
