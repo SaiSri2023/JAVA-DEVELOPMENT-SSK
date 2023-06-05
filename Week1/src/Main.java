@@ -45,7 +45,7 @@ public class Main {
 
         //Constructor assign
         Child ch=new Child();
-        Child ch1=new Child(9);
+        Child ch1=new Child(8);
 
         //static assign
         StaticDemo sd=new StaticDemo();
