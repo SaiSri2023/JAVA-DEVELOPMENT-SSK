@@ -12,7 +12,7 @@ public class RotateString {
             System.out.println("False");
         }
         str3 = str1 + str1;
-        if (str3.contains(str1)) {
+        if (str3.contains(str2)) {
             System.out.println("True");
         } else {
             System.out.println("False");
