@@ -35,7 +35,7 @@ public class Sortcsv {
             {
                 String[] temp = line.split(",");
                 Student s = createStudent(temp);
-//                System.out.println(s.fn);
+//                System.out.println(s.fn);0
                 students.add(s);
                 line = br.readLine();
             }

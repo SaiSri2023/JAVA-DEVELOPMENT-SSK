@@ -3,7 +3,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 public class SumThreads {
-        public static final int asize = 100;
+        public static final int asize = 104;
 
         public static final int tcount = 5;
 

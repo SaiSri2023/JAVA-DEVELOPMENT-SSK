@@ -54,6 +54,14 @@ public class Main {
         FinalDemo fdd1 =new FinalDemo();
         fdd1.finalMethod();
 
+        int num=sc.nextInt();
+        int rev=0;
+        while(num!=0){
+            int r=num%10;
+            rev=rev*10+r;
+            num/=10;
+        }
+        System.out.println(rev);
         }
 
     }

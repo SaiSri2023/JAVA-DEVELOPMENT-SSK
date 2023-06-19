@@ -1,3 +1,3 @@
-public interface Start {
+public interface Start  {
     public abstract void start();
 }
