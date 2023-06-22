@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Scanner;
-
 public class HashStdent{
     public static void main(String[] args) {
         Map<String, Student> studentMap = new HashMap<>();
@@ -33,32 +32,27 @@ public class HashStdent{
         studentMap.forEach((key, value) -> System.out.println("Key: " + key + ", Value: " + value));
 
         System.out.println("\nHashMap Entries (using keySet and Iterator):");
-        Iterator<String> iterator = studentMap.keySet().iterator();
-        while (iterator.hasNext()) {
-            String key = iterator.next();
+        for (String key : studentMap.keySet()) {
             System.out.println("Key: " + key + ", Value: " + studentMap.get(key));
         }
     }
 }
 class Student {
-    private String firstName;
-    private String lastName;
+    private String fn;
+    private String ln;
     private double gpa;
 
     public Student(String firstName, String lastName, double gpa) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+        this.fn = firstName;
+        this.ln = lastName;
         this.gpa = gpa;
     }
-
     public String getFirstName() {
-        return firstName;
+        return fn;
     }
-
     public String getLastName() {
-        return lastName;
+        return ln;
     }
-
     public double getGpa() {
         return gpa;
     }
@@ -66,8 +60,8 @@ class Student {
     @Override
     public String toString() {
         return "Student{" +
-                "firstName='" + firstName + '\'' +
-                ", lastName='" + lastName + '\'' +
+                "firstName='" + fn + '\'' +
+                ", lastName='" + ln + '\'' +
                 ", gpa=" + gpa +
                 '}';
     }
