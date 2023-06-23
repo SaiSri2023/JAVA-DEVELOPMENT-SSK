@@ -6,12 +6,12 @@ public class StringLettCount {
         Map<Character, Integer> charCount = new LinkedHashMap<>();
 
         for (int i = 0; i < input.length(); i++) {
-            char c = input.charAt(i);
+            char c = input.charAt(i); // retrive the value at current index
 
-            if (charCount.containsKey(c)) {
-                charCount.put(c, charCount.get(c) + 1);
+            if (charCount.containsKey(c)) {// if character is  already present as a key in map
+                charCount.put(c, charCount.get(c) + 1); //increment
             } else {
-                charCount.put(c, 1);
+                charCount.put(c, 1); // initil count 1
             }
         }
 

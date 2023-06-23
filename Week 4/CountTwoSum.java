@@ -4,17 +4,17 @@ import java.util.Scanner;
 
 public class CountTwoSum {
     public static int[] findTwoSum(int[] nums, int target) {
-        Map<Integer, Integer> numIndices = new HashMap<>();
+        Map<Integer, Integer> numIndices = new HashMap<>(); //initailize  hashmap
 
         for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
+            int num = nums[i];//retrieve the current number
             int complement = target - num;
 
             if (numIndices.containsKey(complement)) {
-                return new int[]{numIndices.get(complement), i};
+                return new int[]{numIndices.get(complement), i}; //returns indices
             }
 
-            numIndices.put(num, i);
+            numIndices.put(num, i); // store current num and indices
         }
 
         return new int[0];
