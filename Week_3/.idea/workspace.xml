@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6003c571-e761-40c1-a112-5b0be453033d" name="Changes" comment="threads update">
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/Week 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/ConvertSI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/DLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/PRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/Pthread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/Custom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/Stringtoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/dlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/sumthreads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SS/threads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/SumThreads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/Week 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/Booking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/ConvertSI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/DLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/MyCustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/PRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/Pthread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/Custom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/Stringtoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/dlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/sumthreads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SS/threads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SumThreads$PartialSumCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/SumThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/.idea/Week 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/.idea/Week 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/ArListToArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/AvgSqs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/CountTwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/DuplicateString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/HashSetSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/HashStdent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/RemoveLast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/RemoveStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/SortStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/StrCapital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/StrConVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/StringLettCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/Traverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/FinalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/PoliceDepartment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/StaticDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/src/main/java/product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Fizz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/PersonAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Reverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/ReverseSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/RotateString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/SmallLarge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/Sortcsv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/VowelCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/intro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/newlist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/rotate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/smallLargest.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2R9cvduRtckrfh0ah9KCbWePN46" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/saisr/Downloads/JAVA-DEVELOPMENT-SSK/Core_Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SumThreads">
+    <configuration name="Booking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Booking" />
+      <module name="Week_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.DLock" />
+      <module name="Week_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.SumThreads" />
+      <module name="Week_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumThreads" />
+        <item itemvalue="Application.DLock" />
+        <item itemvalue="Application.Booking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6003c571-e761-40c1-a112-5b0be453033d" name="Changes" comment="" />
+      <created>1686665969288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686665969288</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Week 3">
+      <created>1686684874877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686684874877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 3 update">
+      <created>1686760950688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686760950688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Week 3 updatee">
+      <created>1686761542297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686761542297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="threads">
+      <created>1686859447604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686859447604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="threads update">
+      <created>1686859577297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686859577297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 3" />
+    <MESSAGE value="Week 3 update" />
+    <MESSAGE value="Week 3 updatee" />
+    <MESSAGE value="threads" />
+    <MESSAGE value="threads update" />
+    <option name="LAST_COMMIT_MESSAGE" value="threads update" />
+  </component>
+</project>
